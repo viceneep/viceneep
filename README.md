@@ -1,0 +1,3 @@
+- 👋 Hi, I’m somebody
+- 👀 I’m interested in new technology
+- 🌱 I’m currently learning software things
